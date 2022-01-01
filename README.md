@@ -32,7 +32,7 @@ mentor newbies 👨🏻‍💻.
 
 - 🔭 I’m currently working on a few Web Development projects.
 - 🌱 I’m currently learning DSA.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Web Development(MERN), Native and Technology in general.
 - 😄 Pronouns: He / Him / Bro / Dude.
 - ⚡ Fun fact: I ❤️ watching web series, EDMs🎧 and like to try something new everyday.
